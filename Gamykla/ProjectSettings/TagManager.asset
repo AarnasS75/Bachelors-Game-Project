@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spawner
+  - Box
+  - snapPoint
+  - Placeholder
+  - Main Workspace
+  - Workspace
+  - Element Part
+  - Undefined
+  - if
+  - int
+  - void
+  - for
+  - bool
+  - array
+  - color
+  - Result
+  - set
+  - ErrorMessage
+  - setColor
+  - setInt
+  - TestiZaidima
+  - resultsMenu
+  - Tutorial
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
